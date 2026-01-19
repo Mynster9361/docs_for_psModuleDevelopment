@@ -12,6 +12,7 @@
 	
 	.EXAMPLE
 		PS C:\> test-function -path "C:\Scripts\MyScript.ps1"
+		
 		Returns an array of function names found in MyScript.ps1
 	#>
 	[CmdletBinding()]
